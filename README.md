@@ -5,4 +5,4 @@ Un mundo abierto de batallas de tanque con IA, terreno y un sistema de controles
 * BT01 Intro, Notes and Assets
 * BT02 Game Desing Document (GDD)
 * BT03 Setting up a Github (Repo)
-*
+* BT04 Creating & Deleting Landscapes
