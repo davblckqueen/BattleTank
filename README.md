@@ -15,3 +15,4 @@ Un mundo abierto de batallas de tanque con IA, terreno y un sistema de controles
 * BT11 Acotrs from multiple Meshes
 * BT12 Configuring a Tank
 * BT13 3rd Person Camera Control
+* BT14 Fixed 3rd Person Camera Rotation
