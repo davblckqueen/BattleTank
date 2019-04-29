@@ -7,3 +7,4 @@ Un mundo abierto de batallas de tanque con IA, terreno y un sistema de controles
 * BT03 Setting up a Github (Repo)
 * BT04 Creating & Deleting Landscapes
 * BT05 Landscape Setup & Scaling
+* BT06 A Landscaping Process
