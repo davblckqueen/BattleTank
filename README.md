@@ -8,3 +8,4 @@ Un mundo abierto de batallas de tanque con IA, terreno y un sistema de controles
 * BT04 Creating & Deleting Landscapes
 * BT05 Landscape Setup & Scaling
 * BT06 A Landscaping Process
+* BT07 Upgrading Engine Version
