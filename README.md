@@ -14,3 +14,4 @@ Un mundo abierto de batallas de tanque con IA, terreno y un sistema de controles
 * BT10 More Landscaping Tools (NO usado / Texturas aplicadas)
 * BT11 Acotrs from multiple Meshes
 * BT12 Configuring a Tank
+* BT13 3rd Person Camera Control
