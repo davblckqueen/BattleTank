@@ -10,3 +10,4 @@ Un mundo abierto de batallas de tanque con IA, terreno y un sistema de controles
 * BT06 A Landscaping Process
 * BT07 Upgrading Engine Version
 * BT08 Using Landscape Layers
+* BT09 Flat Sahding Low Poly Landscapes (No usado)
