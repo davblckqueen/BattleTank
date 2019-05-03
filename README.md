@@ -20,4 +20,4 @@ Un mundo abierto de batallas de tanque con IA, terreno y un sistema de controles
 * BT16 Main Menu Screen
 * BT17 UI Scale BOx, Buttons & Mouse
 * BT18 Controller Ready Navigation
-* BT79 Trial Packing Your Game (Quit button / Game mode fix)
+* BT19 Trial Packing Your Game (Quit button / Game mode fix)
