@@ -19,3 +19,4 @@ Un mundo abierto de batallas de tanque con IA, terreno y un sistema de controles
 * BT15 User Interface (UI) in Unreal
 * BT16 Main Menu Screen
 * BT17 UI Scale BOx, Buttons & Mouse
+* BT18 Controller Ready Navigation
